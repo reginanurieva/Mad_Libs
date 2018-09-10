@@ -1,0 +1,8 @@
+/Users/Guest/Desktop/MadLibs.Solution/MadLibs/bin/Debug/netcoreapp1.1/MadLibs.deps.json
+/Users/Guest/Desktop/MadLibs.Solution/MadLibs/bin/Debug/netcoreapp1.1/MadLibs.runtimeconfig.json
+/Users/Guest/Desktop/MadLibs.Solution/MadLibs/bin/Debug/netcoreapp1.1/MadLibs.runtimeconfig.dev.json
+/Users/Guest/Desktop/MadLibs.Solution/MadLibs/obj/Debug/netcoreapp1.1/MadLibs.AssemblyInfo.cs
+/Users/Guest/Desktop/MadLibs.Solution/MadLibs/bin/Debug/netcoreapp1.1/MadLibs.dll
+/Users/Guest/Desktop/MadLibs.Solution/MadLibs/bin/Debug/netcoreapp1.1/MadLibs.pdb
+/Users/Guest/Desktop/MadLibs.Solution/MadLibs/obj/Debug/netcoreapp1.1/MadLibs.dll
+/Users/Guest/Desktop/MadLibs.Solution/MadLibs/obj/Debug/netcoreapp1.1/MadLibs.pdb
